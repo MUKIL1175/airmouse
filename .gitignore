@@ -7,4 +7,4 @@ ros2_ws/install/
 ros2_ws/log/
 
 # If you don't want the whole workspace tracked
-# ros2_ws/
+ros2_ws/
