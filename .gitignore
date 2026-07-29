@@ -1,2 +1,10 @@
-/home/mukil/AirMouse/PX4-Autopilot
-/home/mukil/AirMouse/ros2_ws
+# PX4 source
+PX4-Autopilot/
+
+# ROS 2 workspace build artifacts
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# If you don't want the whole workspace tracked
+# ros2_ws/
